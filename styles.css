@@ -1,0 +1,189 @@
+body {
+  text-align: center;
+  background-color: #ff4646;
+}
+
+h1 {
+  font-size: 5rem;
+  color: black;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+
+}
+
+footer {
+  color: black;
+  font-family: sans-serif;
+}
+
+.f {
+  background-image: url("images/crash.png");
+
+}
+
+.a {
+  background-image: url("images/snare.png");
+
+}
+
+.s {
+  background-image: url("images/tom1.png");
+
+}
+
+.d {
+  background-image: url("images/tom2.png");
+
+}
+
+.j {
+  background-image: url("images/tom3.png");
+
+}
+
+.k {
+  background-image: url("images/tom4.png");
+
+}
+
+.l {
+  background-image: url("images/kick.png");
+
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.set1 {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
+
+
+.kb{
+
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+
+}
+
+
+.playlist{
+  margin: 10%;
+}
+
+.playbtn{
+  font-family: 'Langar', cursive;
+}
+
+.plist{
+
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 2rem;
+  font-family: 'Arvo', cursive;
+  line-height: 10;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+
+
+}
+
+.ani{
+  background-image: url("images/ani.jpg");
+}
+
+
+.gvp{
+  background-image: url("images/gvp.jpg");
+}
+
+.arr{
+  background-image: url("images/arr.jpg");
+}
+
+
+
+
+/* .playbtn {
+  background: #ffa36c;
+  background-image: -webkit-linear-gradient(top, #ffa36c, #ffa36c);
+  background-image: -moz-linear-gradient(top, #ffa36c, #ffa36c);
+  background-image: -ms-linear-gradient(top, #ffa36c, #ffa36c);
+  background-image: -o-linear-gradient(top, #ffa36c, #ffa36c);
+  background-image: linear-gradient(to bottom, #ffa36c, #ffa36c);
+  -webkit-border-radius: 7;
+  -moz-border-radius: 7;
+  border-radius: 7px;
+  -webkit-box-shadow: 1px 2px 7px #666666;
+  -moz-box-shadow: 1px 2px 7px #666666;
+  box-shadow: 1px 2px 7px #666666;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 20px 30px 20px 30px;
+  text-decoration: none;
+}
+
+.playbtn:hover {
+  background: #f9813a;
+  background-image: -webkit-linear-gradient(top, #f9813a, #f9813a);
+  background-image: -moz-linear-gradient(top, #f9813a, #f9813a);
+  background-image: -ms-linear-gradient(top, #f9813a, #f9813a);
+  background-image: -o-linear-gradient(top, #f9813a, #f9813a);
+  background-image: linear-gradient(to bottom, #f9813a, #f9813a);
+  text-decoration: none;
+} */
